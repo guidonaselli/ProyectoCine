@@ -1,0 +1,17 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ProyectoCine.Models
+{
+    public class Entrada
+    {
+        [Key]
+        public int Id { get; set; }
+        [Required]
+        public int Sala { get; set; }
+        [Required]
+        public int Fila { get; set; }
+        [Required]
+        public int Asiento { get; set; }
+
+    }
+}
