@@ -30,6 +30,5 @@ namespace ProyectoCine.Controllers
 
             return View(nameof(Index), peliculas);
         }
-        //asdsadsa
     }
 }

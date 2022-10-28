@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uw6mej7vSacojiwKZ8m/XJvWJlQzfJIYJSqM63dcjjLC3rK3hIJQXFCHnEb7Q5++bJ08hA9fvO45l0VEQW3yQA==",
+  "dgSpecHash": "eSTw2lcvLjglMDTkp+s9DahRyl5DFhOcOra9H7L3an3lLiMoBLNqCMyfHrUqqgW7QbYhgD4EPj60tbzWJau1iw==",
   "success": true,
-  "projectFilePath": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\ProyectoCine.csproj",
+  "projectFilePath": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\ProyectoCine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guido\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\guido\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
