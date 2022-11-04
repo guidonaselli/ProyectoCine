@@ -39,7 +39,7 @@ namespace ProyectoCine.Controllers
             ViewBag.nombre = "Juan";
 
             //agregarPelicula("Black Adam", "Black Adam es una película estadounidense de superhéroes basada en el personaje homónimo de DC Comics. Producida por DC Films, New Line Cinema, Seven Bucks Productions y FlynnPictureCo., y distribuida por Warner Bros. Pictures, pretende ser una derivación de ¡Shazam!");
-
+            //prueba commit
             return View(nameof(Index));
 
         }
