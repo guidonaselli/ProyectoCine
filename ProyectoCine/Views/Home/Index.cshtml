@@ -1,5 +1,4 @@
-﻿@model IEnumerable<Pelicula>
-
+﻿<link rel="stylesheet" type="text/css" href="StyleSheet.css">
 
 <div class="container">
     <div class="row">
@@ -7,35 +6,4 @@
             <h2 style="text-align:center">INDEX</h2>
         </div>
     </div>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="colum">
-            <table class="table">
-                <tr>
-                    <td>
-                        <label>NOMBRE</label>
-                    </td>
-                    <td>
-                        <label>DESCRIPCIÓN</label>
-                    </td>
-                </tr>
-                @foreach (var pelicula in Model)
-                {
-                    <tr>
-                        <td>
-                            <label>@pelicula.Nombre</label>
-                        </td>
-                        <td>
-                            <label>@pelicula.Descripcion</label>
-                        </td>
-                    </tr>
-                }
-            </table>
-        </div>
-
-    </div>
-
-
 </div>
