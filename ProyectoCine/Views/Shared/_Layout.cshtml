@@ -12,7 +12,7 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">ProyectoCine</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Proyecto<span class="text-active">Cine</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -31,9 +31,6 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contacto">Contacto</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Entrada" asp-action="Entrada">Entradas</a>
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -45,9 +42,35 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
+    <footer class="border-top text-muted page-footer bg-image">
         <div class="container">
-            &copy; 2022 - ProyectoCine - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            <div class="row mb-5">
+                <div class="col-lg-4 py-3">
+                    <h3>Proyecto Cine</h3>
+                    <p>Tu cine de barrio</p>
+                    <div class="social-media">
+                        <h4>Redes sociales</h4>
+                        <a href="instagram.com" class="social-media-item"></a>
+                        <a href="facebook.com" class="social-media-item"></a>
+                        <a href="twitter.com" class="social-media-item"></a>
+                        <a href="linkedin.com" class="social-media-item"></a>
+                    </div>
+                </div>
+                <div class="col-lg-4 py-3">
+                    <h5>Enlaces</h5>
+                    <div class="footer-menu">
+                        <a class="footer-link" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
+                        <a class="footer-link" asp-area="" asp-controller="Home" asp-action="Boleteria">Boleteria</a>
+                        <a class="footer-link" asp-area="" asp-controller="Home" asp-action="Contacto">Contacto</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 py-3">
+                    <h5>Contactanos</h5>
+                    <p>Av. Cabildo 3000</p>
+                    <p class="footer-link">+54 11 5645-1231</p>
+                    <p class="footer-link">proyectocine@gmail.com</p>
+                </div>
+            </div>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

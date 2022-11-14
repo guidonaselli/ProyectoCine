@@ -1,19 +1,23 @@
-*{
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+:root {
+    --primario: #FCB66E;
+}
+
+* {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family:Roboto;
+    font-family: Roboto;
+    color: #fffcf2;
+
 }
 
 html {
   font-size: 12px;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 1.1em;
-  }
-}
+
 
 html {
   position: relative;
@@ -21,14 +25,134 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
-  background-color: #fffcf2;
+    margin-bottom: 60px;
+    background-color: #000000;
+    color: #fffcf2 !important;
+}
+
+.text-active{
+    color: var(--primario);
 }
 
 .navbar{
     background-color: #000000 !important;
+    border-bottom: 2px #fff6cb solid;
+}
+
+.navbar-nav{
+    display:flex;
+    justify-content: flex-end;
+
 }
 
 .nav-link, .navbar-brand {
     color: #fffcf2 !important;
+    margin-inline: 2rem;
+}
+
+option{
+    color: #000000 !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+iframe {
+    border-radius: 4px;
+    margin: 30px;
+}
+
+.titulo-contacto{
+    text-align: center;
+    margin: 30px 0 30px 0;
+}
+
+
+.contact-icon {
+    color: var(--primario);
+    height: 4rem;
+    font-size: 4rem;
+    margin-bottom: 15px;
+}
+
+footer {
+    background-image: url('../imgs/diamond-sunset.svg');
+}
+
+.page-footer {
+    position: relative;
+    display: block;
+    padding-top: 40px;
+}
+.page-footer p {
+  color: #898798;
+}
+.page-footer h3,
+.page-footer h4,
+.page-footer h5 {
+  color: #fff;
+  margin-bottom: 24px;
+}
+
+.footer-menu{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+}
+
+.footer-link{
+    color: #808080;
+}
+
+.text-secondary {
+    color: var(--primario) !important;
+}
+
+.btn-entradas {
+    background-color: var(--primario);
+    margin-block: 50px;
+    margin-left: 80%;
+    padding: 10px 25px;
+    text-align: center;
+    font-weight: 700;
+    border-radius: 6px;
+}
+
+.btn-entradas:hover{
+    background-color: var(--primario);
+    color
+}
+
+.container-peliculas {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.item-pelicula {
+    /* Arriba | Derecha | Abajo | Izquierda */
+    margin: 40px 30px 0 0;
+}
+
+.titulo-pelicula{
+    text-align: center;
+    background-color: var(--primario);
+    font-weight: 700;
+    
+}
+
+.page-section-peliculas{
+    background-color: #151515    !important;
+}
+
+
+
+
+
+@media (min-width: 768px) {
+    html {
+        font-size: 1.1em;
+    }
 }
