@@ -147,6 +147,18 @@ footer {
     background-color: #151515    !important;
 }
 
+.social-media-container {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.social-media-item {
+    margin-right: 25px;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
 
 
 

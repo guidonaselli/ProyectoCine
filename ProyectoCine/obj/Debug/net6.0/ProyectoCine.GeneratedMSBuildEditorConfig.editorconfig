@@ -1,0 +1,60 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProyectoCine
+build_property.RootNamespace = ProyectoCine
+build_property.ProjectDir = D:\Usuario\Documentos\GitHub\ProyectoCine\ProyectoCine\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Usuario\Documentos\GitHub\ProyectoCine\ProyectoCine
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/Entrada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxFbnRyYWRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/EntradaDetalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxFbnRyYWRhRGV0YWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Home/Boleteria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2xldGVyaWEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Home/Contacto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Home/Ubicacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVYmljYWNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b2mcghinw9
