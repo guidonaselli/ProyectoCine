@@ -45,6 +45,14 @@ namespace ProyectoCine.Controllers
             return View(nameof(Entrada));
         }
 
+        [HttpGet]
+        public IActionResult EntradaDetalle()
+        {
+            //string? titulo = TempData["titulo"].ToString();
+            //string? valor = HttpContext.Session.GetString("clave");
+            //ViewBag.valor = valor;
+            return View(nameof(EntradaDetalle));
+        }
 
         //recibe y crea un cliente
         [HttpPost]
