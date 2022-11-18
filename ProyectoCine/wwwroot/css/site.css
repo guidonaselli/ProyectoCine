@@ -165,12 +165,6 @@ footer {
     flex-direction: column;
 }
 
-.social-media-item {
-    margin-right: 25px;
-    display: inline-block;
-    text-decoration: none;
-    cursor: pointer;
-}
 
 .img-pelicula {
     height: 210px;
@@ -220,6 +214,11 @@ footer {
     font-weight: 700;
 }
 
+.info-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
 
 @media (min-width: 768px) {
     html {

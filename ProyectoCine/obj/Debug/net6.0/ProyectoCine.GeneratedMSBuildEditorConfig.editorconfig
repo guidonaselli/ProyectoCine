@@ -19,10 +19,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxFbnRyYWRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/EntradaDetalle.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxFbnRyYWRhRGV0YWxsZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/PeliBlackPanther.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxQZWxpQmxhY2tQYW50aGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -41,10 +37,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Home/Ubicacion.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVYmljYWNpb24uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Pelicula/BlackPanther.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFcQmxhY2tQYW50aGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Shared/Error.cshtml]

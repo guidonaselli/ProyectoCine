@@ -1,5 +1,4 @@
-﻿using AspNetCore;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using ProyectoCine.Models;
 using System.Reflection.Metadata;
@@ -47,12 +46,6 @@ namespace ProyectoCine.Controllers
         }
 
         [HttpGet]
-        public IActionResult EntradaDetalle()
-        {
-            
-            return View(nameof(EntradaDetalle));
-        }
-
         public IActionResult PeliBlackPanther()
         {
             
