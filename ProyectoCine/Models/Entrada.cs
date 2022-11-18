@@ -13,5 +13,14 @@ namespace ProyectoCine.Models
         [Required]
         public int Asiento { get; set; }
 
+        [Required]
+        public string NombreYApellido { get; set; }
+
+        [Required]
+        public string Horario { get; set; }
+
+        [Required]
+        public string NombrePelicula { get; set; }
+
     }
 }
