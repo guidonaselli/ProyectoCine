@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using AspNetCore;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using ProyectoCine.Models;
 using System.Reflection.Metadata;
@@ -48,10 +49,14 @@ namespace ProyectoCine.Controllers
         [HttpGet]
         public IActionResult EntradaDetalle()
         {
-            //string? titulo = TempData["titulo"].ToString();
-            //string? valor = HttpContext.Session.GetString("clave");
-            //ViewBag.valor = valor;
+            
             return View(nameof(EntradaDetalle));
+        }
+
+        public IActionResult PeliBlackPanther()
+        {
+            
+            return View(nameof(PeliBlackPanther));
         }
 
         //recibe y crea un cliente

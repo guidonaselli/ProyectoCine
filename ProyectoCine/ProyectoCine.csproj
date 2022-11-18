@@ -7,6 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\NewFolder\**" />
+    <Content Remove="Views\NewFolder\**" />
+    <EmbeddedResource Remove="Views\NewFolder\**" />
+    <None Remove="Views\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Views\Home\Index1.cshtml" />
     <Content Remove="Views\Home\Privacy.cshtml" />
     <Content Remove="Views\Home\_ViewImports.cshtml" />
