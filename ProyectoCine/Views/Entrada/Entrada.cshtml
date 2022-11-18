@@ -7,19 +7,60 @@
 
    @* sala fila asiento*@
     <div class="form-group">
-        <label class="control-label">SALA</label>
+
+        <div class="form-group">
+            <label class="control-label">Película</label>
+            <select asp-for="NombrePelicula" class="form-select">
+                <option value="">Seleccione la pelicula</option>
+                <option value="Black Panter">Black Panter</option>
+                <option value="One Piece">One Piece</option>
+                <option value="Crepusculo">Crepusculo</option>
+                <option value="Argentina, 1985">Argentina, 1985</option>
+                <option value="Cronica de un affaire">Cronica de un affaire</option>
+                <option value="Harry Potter">Harry Potter</option>
+                <option value="La Huérfana">La Huérfana</option>
+                <option value="La luz del diablo">La luz del diablo</option>
+                <option value="No odiarás">No odiarás</option>
+                <option value="Pasaje al paraíso">Pasaje al paraíso</option>
+                <option value="Sonrie">Sonrie</option>
+                <option value="Taxy Driver">Taxy Driver</option>
+            </select>
+        </div>
+
+
+        <label class="control-label">Sala</label>
         <input asp-for="Sala" class="form-control" /> @*asp-for revisa lo que tiene el model*@
     </div>
 
     <div class="form-group">
-        <label class="control-label">FILA</label>
+        <label class="control-label">Fila</label>
         <input asp-for="Fila" class="form-control" />
     </div>
 
     <div class="form-group">
-        <label class="control-label">ASIENTO</label>
+        <label class="control-label">Asiento</label>
         <input asp-for="Asiento" class="form-control" />
     </div>
+
+
+    <div class="form-group">
+        <label class="control-label">Horario</label>
+        <select asp-for="Horario" class="form-select" aria-label="Horarios">
+            <option value="">Seleccione el horario</option>
+            <option value="19">19:00</option>
+            <option value="20">20:00</option>
+            <option value="21">21:00</option>
+            <option value="22">22:00</option>
+            <option value="23">23:00</option>
+            <option value="24">00:00</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label class="control-label">Nombre y Apellido</label>
+        <input asp-for="NombreYApellido" class="form-control" type="text" value="">
+    </div>
+    
 
     <div class="form-group" style="margin-top:10px;">
         <input type="submit" value="COMPRAR" class="btn btn-outline-dark" /> @*submit hace envios de tipo POST*@
