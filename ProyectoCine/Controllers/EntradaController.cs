@@ -23,7 +23,8 @@ namespace ProyectoCine.Controllers
             return View(entradas);
         }
 
-        //Vista de Entrada
+        //Vista de Entrada, muestra el formulario.
+        [HttpGet]
         public IActionResult EntradaSd()
         {
             return View(nameof(Entrada));
@@ -35,35 +36,50 @@ namespace ProyectoCine.Controllers
         //GET muestra los datos, cuando envio datos de la pagina hacia el controlador hacemos un POST
 
 
-        //lee el formulario de cliente, levanta la vista
+        //muestra el formulario de comprar la entrada, levanta la vista
         [HttpGet]
-        public IActionResult Entrada()
+        public IActionResult BuyTickets() //ESTA ACCION ES EL QUE MUESTRA LA VISTA DEL FORMULARIO. Lo que abre el boton comprar entrada
         {
             //string? titulo = TempData["titulo"].ToString();
             //string? valor = HttpContext.Session.GetString("clave");
             //ViewBag.valor = valor;
-            return View(nameof(Entrada));
+            return View(nameof(BuyTickets));
         }
 
-        [HttpGet]
-        public IActionResult EntradaDetalle()
-        {
-            //string? titulo = TempData["titulo"].ToString();
-            //string? valor = HttpContext.Session.GetString("clave");
-            //ViewBag.valor = valor;
-            return View(nameof(EntradaDetalle));
-        }
-
-        //recibe y crea un cliente
+        
+        //recibe y crea un entrada
         [HttpPost]
-        public IActionResult Create(Entrada entrada)
+        public IActionResult Create(Entrada entrada) //desde la pantalla de BuyTickets, llena los datos de la entrada y lo envía al servidor
+        {
+            using (CineContext context = new()) //el using arma un ámbito donde el objeto declarado, en este caso context,va a estar vivo. Vive en el scope del using, para liberar memoria  
+            {
+                context.entradas.Add(entrada); //guarda de forma lógica la entrada. Se fija si puede guardar la entrada en la base de datos.
+                context.SaveChanges(); //graba o impacta los cambios
+            }
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public IActionResult Edit(int Id)
         {
             using (CineContext context = new())
             {
-                context.entradas.Add(entrada); //guarda de forma lógica la entrada. Se fija si puede guardar la entrada en la base de datos.
-                context.SaveChanges(); //graba los cambios
+
+                //var buscamosCliente  = (from c in context.Clientes where c.Id == Id select c);
+                //Cliente? cliente = buscamosCliente.FirstOrDefault();
+
+                Entrada? entrada = context.entradas.Find(Id);
+
+
+                if (entrada != null)
+                {
+                    return View(entrada);
+                }
+                else
+                {
+                    return RedirectToAction(nameof(Index));
+                }
             }
-            return View(nameof(Entrada));
         }
 
         [HttpPost]
@@ -82,8 +98,7 @@ namespace ProyectoCine.Controllers
                     context.entradas.Update(entrada);
                     context.SaveChanges();
                 }
-
-                return RedirectToAction(nameof(Entrada));
+                return RedirectToAction(nameof(Index));
             }
         }
 
@@ -95,10 +110,10 @@ namespace ProyectoCine.Controllers
             {
                 if (id != 0)
                 {
-                    Entrada? cliente = context.entradas.Find(id);
-                    if (cliente != null)
+                    Entrada? entrada = context.entradas.Find(id);
+                    if (entrada != null)
                     {
-                        context.entradas.Remove(cliente);
+                        context.entradas.Remove(entrada);
                         context.SaveChanges();
                     }
                 }

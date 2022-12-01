@@ -1,11 +1,12 @@
-﻿@model ProyectoCine.Models.Entrada
-@*<h1>@TempData["titulo"]</h1>*@
+﻿@model Entrada
 
-@*<a asp-action="Create" class="btn btn-outline-dark" style="margin-bottom:10px;">CREAR NUEVO</a>*@
+<form asp-action="Update">
 
-<form asp-action="Create"> @*llama al metodo POST*@
+    <div class="form-group">
+        <label class="control-label">Id</label>
+        <input asp-for="Id" readonly="true"  class="form-control" />
+    </div>
 
-   @* sala fila asiento*@
     <div class="form-group">
 
         <div class="form-group">
@@ -26,15 +27,28 @@
                 <option value="Taxy Driver">Taxy Driver</option>
             </select>
         </div>
+    </div>
 
-
-        <label class="control-label">Sala</label>
-        <input asp-for="Sala" class="form-control" /> @*asp-for revisa lo que tiene el model*@
+    <div class="form-group">
+        <label class="control-label">Sala</label> @*asp-for revisa lo que tiene el model*@
+        <select asp-for="Sala" class="form-select">
+            <option value="">Seleccione la sala</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
     </div>
 
     <div class="form-group">
         <label class="control-label">Fila</label>
-        <input asp-for="Fila" class="form-control" />
+        <select asp-for="Fila" class="form-select">
+            <option value="">Seleccione la fila</option>
+            <option value="A">a</option>
+            <option value="B">b</option>
+            <option value="C">c</option>
+            <option value="D">d</option>
+        </select>
     </div>
 
     <div class="form-group">
@@ -47,12 +61,12 @@
         <label class="control-label">Horario</label>
         <select asp-for="Horario" class="form-select" aria-label="Horarios">
             <option value="">Seleccione el horario</option>
-            <option value="19">19:00</option>
-            <option value="20">20:00</option>
-            <option value="21">21:00</option>
-            <option value="22">22:00</option>
-            <option value="23">23:00</option>
-            <option value="24">00:00</option>
+            <option value="19:00">19:00</option>
+            <option value="20:00">20:00</option>
+            <option value="21:00">21:00</option>
+            <option value="22:00">22:00</option>
+            <option value="23:00">23:00</option>
+            <option value="00:00">00:00</option>
         </select>
     </div>
 
@@ -60,11 +74,11 @@
         <label class="control-label">Nombre y Apellido</label>
         <input asp-for="NombreYApellido" class="form-control" type="text" value="">
     </div>
-    
 
     <div class="form-group" style="margin-top:10px;">
-        <input type="submit" value="COMPRAR" class="btn btn-outline-dark" /> @*submit hace envios de tipo POST*@
+        <input type="submit" value="Confirmar" class="btn btn-outline-dark" />
     </div>
+
 </form>
 
-<a asp-action="Index" asp-controller="Home" class="btn btn-outline-dark" style="margin-top:10px;">VOLVER</a>
+<a asp-action="Index" asp-controller="Home" class="btn btn btn-light" style="margin-top:10px;">VOLVER</a>

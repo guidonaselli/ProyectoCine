@@ -6,10 +6,13 @@ namespace ProyectoCine.Models
     {
         [Key]
         public int Id { get; set; }
+
         [Required]
         public int Sala { get; set; }
+
         [Required]
-        public int Fila { get; set; }
+        public String Fila { get; set; }
+
         [Required]
         public int Asiento { get; set; }
 
