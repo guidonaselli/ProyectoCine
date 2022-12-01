@@ -45,8 +45,6 @@ namespace ProyectoCine.Controllers
             //ViewBag.valor = valor;
             return View(nameof(BuyTickets));
         }
-
-        
         //recibe y crea un entrada
         [HttpPost]
         public IActionResult Create(Entrada entrada) //desde la pantalla de BuyTickets, llena los datos de la entrada y lo envía al servidor
@@ -57,6 +55,14 @@ namespace ProyectoCine.Controllers
                 context.SaveChanges(); //graba o impacta los cambios
             }
             return RedirectToAction(nameof(Index));
+            
+          }
+
+        [HttpGet]
+        public IActionResult PeliBlackPanther()
+        {
+            return View(nameof(PeliBlackPanther));
+
         }
 
         [HttpGet]
