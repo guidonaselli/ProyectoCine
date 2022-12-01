@@ -1,2 +1,20 @@
 
 *.vsidx
+.vs/ProjectEvaluation/proyectocine.metadata.v5.1
+.vs/ProjectEvaluation/proyectocine.projects.v5.1
+.vs/ProyectoCine/DesignTimeBuild/.dtbcache.v2
+.vs/ProyectoCine/FileContentIndex/17f82164-17ac-4a5b-b8d5-4ca2ced12704.vsidx
+.vs/ProyectoCine/FileContentIndex/5f5342c4-e1fa-4241-ba9a-4ddabf273a4e.vsidx
+.vs/ProyectoCine/FileContentIndex/97a86f60-2a07-4c5b-b82d-482730fbae29.vsidx
+.vs/ProyectoCine/v17/.futdcache.v2
+.vs/ProyectoCine/v17/.suo
+ProyectoCine/bin/Debug/net6.0/ProyectoCine.dll
+ProyectoCine/bin/Debug/net6.0/ProyectoCine.pdb
+ProyectoCine/bin/Debug/net6.0/ProyectoCine.staticwebassets.runtime.json
+ProyectoCine/obj/Debug/net6.0/ProyectoCine.genruntimeconfig.cache
+ProyectoCine/obj/Debug/net6.0/ProyectoCine.pdb
+ProyectoCine/obj/Debug/net6.0/ref/ProyectoCine.dll
+ProyectoCine/obj/Debug/net6.0/refint/ProyectoCine.dll
+ProyectoCine/obj/Debug/net6.0/staticwebassets.build.json
+ProyectoCine/obj/Debug/net6.0/staticwebassets.development.json
+ProyectoCine/obj/staticwebassets.pack.sentinel
