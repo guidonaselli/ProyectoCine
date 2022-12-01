@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Entrada>
+
+<h1>@TempData["titulo"]</h1>
+
+
+<a asp-action="Create" class="btn btn-outline-dark" style="margin-bottom:10px;"></a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <label>Película</label>
+            </th>
+            <th>
+                <label>Horario</label>
+            </th>
+            <th>
+                <label>Sala</label>
+            </th>
+            <th>
+                <label>Fila</label>
+            </th>
+            <th>
+                <label>Asiento</label>
+            </th>
+            <th>
+                <label>Cliente</label>
+            </th>
+            <td></td>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <label>@item.NombrePelicula</label>
+            </td>
+            <td>
+                <label>@item.Horario</label>
+            </td>
+            <td>
+                <label>@item.Sala</label>
+            </td>
+            <td>
+                <label>@item.Fila</label>
+            </td>
+            <td>
+                <label>@item.Asiento</label>
+            </td>
+            <td>
+                <label>@item.NombreYApellido</label>
+            </td>
+
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-warning">Editar Compra</a>
+                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-warning">Cancelar Compra</a>
+               @* <a onclick="AlertDeleteJuego('@item.Id')" class="btn btn-danger">Cancelar compra</a>
+                <input type="submit" value="Cancelar compra" class="btn btn-outline-dark" />submit hace envios de tipo POST*@
+            </td>
+        </tr>
+    }
+</table>
+
+<a asp-action="Index" asp-controller="Home" class="btn btn-outline-dark" style="margin-top:10px;">VOLVER</a>
+
+
+
+<script>
+    function AlertDeleteJuego(identificador) {
+        Swal.fire({
+            title: '¿Seguro que desea cancelar su compra?',
+            text: "Recuerde que no será posible revertir esta acción.",
+            icon: '\uF339',
+            showCancelButton: true,
+            confirmButtonColor: '#68E173',
+            cancelButtonColor: '#5C66DB',
+            confirmButtonText: 'Confirmar',
+            cancelButtonText: 'Cancelar'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                $.ajax({
+                    url: "Entrada/Delete?id=" + identificador,
+                    success: function (r) {
+                        window.location = "Entrada/Index";
+                    }
+                });
+            }
+            return false;
+        });
+    }
+
+</script>
