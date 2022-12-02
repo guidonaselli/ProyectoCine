@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2k9qbDkStTDahFb6/A78I6YtkZGlExlywK/gv2Qs9/E=",
+  "Hash": "r35iLTx4dLibOEahAKTAGAT2fGYOzTPA4IwORkkrsAA=",
   "Source": "ProyectoCine",
   "BasePath": "_content/ProyectoCine",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ProyectoCine\\wwwroot",
       "Source": "ProyectoCine",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProyectoCine.styles.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProyectoCine.styles.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "ProyectoCine.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProyectoCine.styles.css"
+      "OriginalItemSpec": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ProyectoCine.styles.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProyectoCine.bundle.scp.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProyectoCine.bundle.scp.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "ProyectoCine.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProyectoCine.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProyectoCine.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\css\\site.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\favicon.ico",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,12 +85,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\argentina.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\argentina1985.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
-      "RelativePath": "imgs/argentina.png",
+      "RelativePath": "imgs/argentina1985.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -99,13 +99,47 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imgs\\argentina.png"
+      "OriginalItemSpec": "wwwroot\\imgs\\argentina1985.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\blackadam.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bg-image.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "BasePath": "_content/ProyectoCine",
+      "RelativePath": "imgs/bg-image.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\bg-image.png"
+    },
+    {
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bg-image.svg",
+      "SourceId": "ProyectoCine",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "BasePath": "_content/ProyectoCine",
+      "RelativePath": "imgs/bg-image.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\bg-image.svg"
+    },
+    {
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\blackadam.png",
+      "SourceId": "ProyectoCine",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/blackadam.png",
       "AssetKind": "All",
@@ -119,12 +153,12 @@
       "OriginalItemSpec": "wwwroot\\imgs\\blackadam.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\black-panther.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\blackpanther.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
-      "RelativePath": "imgs/black-panther.png",
+      "RelativePath": "imgs/blackpanther.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -133,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imgs\\black-panther.png"
+      "OriginalItemSpec": "wwwroot\\imgs\\blackpanther.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-camera-movie.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-camera-movie.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/bx-camera-movie.png",
       "AssetKind": "All",
@@ -153,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\bx-camera-movie.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-envelope.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-envelope.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/bx-envelope.png",
       "AssetKind": "All",
@@ -170,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\bx-envelope.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-map.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-map.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/bx-map.png",
       "AssetKind": "All",
@@ -187,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\bx-map.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-movie.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-movie.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/bx-movie.png",
       "AssetKind": "All",
@@ -204,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\bx-movie.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-movie-play.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-movie-play.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/bx-movie-play.png",
       "AssetKind": "All",
@@ -221,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\bx-movie-play.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-phone.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\bx-phone.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/bx-phone.png",
       "AssetKind": "All",
@@ -238,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\bx-phone.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\crepusculo.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\crepusculo.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/crepusculo.png",
       "AssetKind": "All",
@@ -255,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\crepusculo.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\cronica-de-un-affaire.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\cronica-de-un-affaire.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/cronica-de-un-affaire.png",
       "AssetKind": "All",
@@ -272,44 +306,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\cronica-de-un-affaire.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\diamond-sunset.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\halloween-la-noche-final.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
-      "BasePath": "_content/ProyectoCine",
-      "RelativePath": "imgs/diamond-sunset.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imgs\\diamond-sunset.png"
-    },
-    {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\diamond-sunset.svg",
-      "SourceId": "ProyectoCine",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
-      "BasePath": "_content/ProyectoCine",
-      "RelativePath": "imgs/diamond-sunset.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imgs\\diamond-sunset.svg"
-    },
-    {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\halloween-la-noche-final.png",
-      "SourceId": "ProyectoCine",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/halloween-la-noche-final.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\halloween-la-noche-final.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\harry-potter.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\harry-potter.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/harry-potter.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\harry-potter.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-fb.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-fb.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/icon-fb.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\icon-fb.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-fb-nobg.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-fb-nobg.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/icon-fb-nobg.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\icon-fb-nobg.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-ig.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-ig.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/icon-ig.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\icon-ig.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-ig-nobg.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-ig-nobg.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/icon-ig-nobg.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\icon-ig-nobg.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-ldin.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-ldin.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/icon-ldin.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\icon-ldin.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-ldin-nobg.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-ldin-nobg.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/icon-ldin-nobg.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\icon-ldin-nobg.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-tw.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-tw.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/icon-tw.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\icon-tw.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-tw-nobg.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\icon-tw-nobg.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/icon-tw-nobg.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\icon-tw-nobg.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\la-huerfana.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\la-huerfana.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/la-huerfana.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\la-huerfana.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\la-luz-del-diablo.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\la-luz-del-diablo.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/la-luz-del-diablo.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\la-luz-del-diablo.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\no-odiaras.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\no-odiaras.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/no-odiaras.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\no-odiaras.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\one-piece.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\one-piece.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/one-piece.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\one-piece.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\pantera-negra.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\pantera-negra.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/pantera-negra.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pantera-negra.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\pasaje-al-paraiso.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\pasaje-al-paraiso.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/pasaje-al-paraiso.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pasaje-al-paraiso.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\pelicula-blackadam.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\pelicula-blackadam.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/pelicula-blackadam.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\pelicula-blackadam.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\sonrie.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\sonrie.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/sonrie.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\sonrie.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\super-mascotas.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\super-mascotas.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/super-mascotas.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\super-mascotas.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\tadeo.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\tadeo.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/tadeo.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\tadeo.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\taxy-driver.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\taxy-driver.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/taxy-driver.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\taxy-driver.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\visto-por-ultima-vez.png",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\imgs\\visto-por-ultima-vez.png",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "imgs/visto-por-ultima-vez.png",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\visto-por-ultima-vez.png"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\js\\site.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -697,10 +697,27 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\js\\sweetalert2.all.min.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "BasePath": "_content/ProyectoCine",
+      "RelativePath": "js/sweetalert2.all.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\sweetalert2.all.min.js"
+    },
+    {
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "ProyectoCine",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -714,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -731,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -748,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -765,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -782,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -799,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -816,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -833,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -850,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -867,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -884,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -901,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -918,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -935,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -952,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -969,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -986,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1003,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1020,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1037,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1054,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1071,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1088,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1122,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1139,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1156,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ProyectoCine",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programacion\\Visual Studio\\Repositories\\ProyectoCine\\ProyectoCine\\wwwroot\\",
+      "ContentRoot": "D:\\Usuario\\Documentos\\GitHub\\ProyectoCine\\ProyectoCine\\wwwroot\\",
       "BasePath": "_content/ProyectoCine",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

@@ -15,16 +15,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Usuario\Documentos\GitHub\ProyectoCine\ProyectoCine
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/Entrada.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxFbnRyYWRhLmNzaHRtbA==
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/BuyTickets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxCdXlUaWNrZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Entrada/PeliBlackPanther.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW50cmFkYVxQZWxpQmxhY2tQYW50aGVyLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Home/Boleteria.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb2xldGVyaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Home/Contacto.cshtml]
@@ -35,8 +39,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Home/Ubicacion.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVYmljYWNpb24uY3NodG1s
+[D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Pelicula/PeliculaDetalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVsaWN1bGFcUGVsaWN1bGFEZXRhbGxlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Usuario/Documentos/GitHub/ProyectoCine/ProyectoCine/Views/Shared/Error.cshtml]

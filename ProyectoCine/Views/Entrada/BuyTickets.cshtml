@@ -1,18 +1,38 @@
 ﻿@model ProyectoCine.Models.Entrada
 @*<h1>@TempData["titulo"]</h1>*@
 
+<div class="page-section">
+    <div class="container">
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="~/imgs/black-panther.png" class="d-block w-100 img-carousel" alt="..." />
+                </div>
+                <div class="carousel-item">
+                    <img src="~/imgs/blackadam.png" class="d-block w-100 img-carousel" alt="..." />
+                </div>
+                <div class="carousel-item">
+                    <img src="~/imgs/argentina.png" class="d-block w-100 img-carousel" alt="..." />
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
 @*<a asp-action="Create" class="btn btn-outline-dark" style="margin-bottom:10px;">CREAR NUEVO</a>*@
 
-<form asp-action="Create"> @*llama al metodo POST*@
+<form asp-action="Create">
+    @*llama al metodo POST*@
 
-   @* sala fila asiento*@
+    @* sala fila asiento*@
     <div class="form-group">
 
         <div class="form-group">
             <label class="control-label">Película</label>
-            <select asp-for="NombrePelicula" class="form-select">
+            <select asp-for="NombrePelicula" class="form-select" required>
                 <option value="">Seleccione la pelicula</option>
-                <option value="Black Panter">Black Panter</option>
+                <option value="Black Panter">Black Panther</option>
                 <option value="One Piece">One Piece</option>
                 <option value="Crepusculo">Crepusculo</option>
                 <option value="Argentina, 1985">Argentina, 1985</option>
@@ -30,7 +50,7 @@
 
     <div class="form-group">
         <label class="control-label">Sala</label> @*asp-for revisa lo que tiene el model*@
-        <select asp-for="Sala" class="form-select">
+        <select asp-for="Sala" class="form-select" required>
             <option value="">Seleccione la sala</option>
             <option value="1">1</option>
             <option value="2">2</option>
@@ -41,7 +61,7 @@
 
     <div class="form-group">
         <label class="control-label">Fila</label>
-        <select asp-for="Fila" class="form-select">
+        <select asp-for="Fila" class="form-select" required>
             <option value="">Seleccione la fila</option>
             <option value="A">a</option>
             <option value="B">b</option>
@@ -52,13 +72,25 @@
 
     <div class="form-group">
         <label class="control-label">Asiento</label>
-        <input asp-for="Asiento" class="form-control" />
+        <select asp-for="Asiento" class="form-select">
+            <option value="">Seleccione el asiento</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+        </select>
     </div>
 
 
     <div class="form-group">
         <label class="control-label">Horario</label>
-        <select asp-for="Horario" class="form-select" aria-label="Horarios">
+        <select asp-for="Horario" class="form-select" aria-label="Horarios" required>
             <option value="">Seleccione el horario</option>
             <option value="19:00">19:00</option>
             <option value="20:00">20:00</option>
@@ -71,15 +103,17 @@
 
     <div class="form-group">
         <label class="control-label">Nombre y Apellido</label>
-        <input asp-for="NombreYApellido" class="form-control" type="text" value="">
+        <input asp-for="NombreYApellido" class="form-control" type="text" value="" required>
     </div>
-    
 
-    <div class="form-group" style="margin-top:10px;">
-        <input type="submit" value="COMPRAR" class="btn btn btn-light" /> @*submit hace envios de tipo POST*@
+    <div class="form-btns text:align:center">
+        <div class="form-group">
+            <input type="submit" value="COMPRAR" class="btn btn-form text:align:center" /> @*submit hace envios de tipo POST*@
+
+        </div>
+        <a asp-action="Index" asp-controller="Home" class="btn btn-exit text:align:center">VOLVER</a>
     </div>
-   
 </form>
 
- <a asp-action="Index" asp-controller="Home" class="btn btn btn-light" style="margin-top:10px;">VOLVER</a>
+
 
