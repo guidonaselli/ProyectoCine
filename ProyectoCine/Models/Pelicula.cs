@@ -12,7 +12,7 @@ namespace ProyectoCine.Models
         [Required]
         public string Descripcion { get; set; }
 
-        public List<string> Horarios = new List<String>();
+        //public List<string> Horarios = new List<String>();
 
         public Pelicula(string nombre, string descripcion)
         {

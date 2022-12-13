@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - ProyectoCine</title>
+    <title>CineProyecto</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/ProyectoCine.styles.css" asp-append-version="true" />
@@ -12,13 +12,14 @@
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Proyecto<span class="text-active">Cine</span></a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Cine<span class="text-active">Proyecto</span></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+                        @*Links*@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
                         </li>
@@ -39,15 +40,17 @@
         </main>
     </div>
 
+    @*Footer*@
     <footer class="border-top text-muted page-footer">
         <div class="container">
             <div class="row mb-5">
                 <div class="col-lg-4 py-3">
-                    <h3>Proyecto Cine</h3>
-                    <p>Tu cine de barrio</p>
+                    <h3>CineProyecto</h3>
+                    <p>Para todos los amantes del cine.</p>
                     <div class="social-media-container">
                         <h4>Redes sociales</h4>
                         <div class="social-media">
+                            @*Links a las redes sociales*@
                             <a href="instagram.com"><img src="~/imgs/icon-ig.png" /></a>
                             <a href="facebook.com"><img src="~/imgs/icon-fb.png" /></a>
                             <a href="twitter.com"><img src="~/imgs/icon-tw.png" /></a>
@@ -56,7 +59,9 @@
                     </div>
                 </div>
                 <div class="col-lg-4 py-3">
+                    @*Links*@
                     <h5>Enlaces</h5>
+                    
                     <div class="footer-menu">
                         <a class="footer-link" asp-area="" asp-controller="Home" asp-action="Index">Inicio</a>
                         <a class="footer-link" asp-area="" asp-controller="Home" asp-action="Boleteria">Boleteria</a>
@@ -64,6 +69,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 py-3">
+                    @*Info de contacto*@
                     <h5>Contactanos</h5>
                     <p>Av. Cabildo 3000</p>
                     <p>+54 11 5645-1231</p>
@@ -78,5 +84,5 @@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
-
+@*Import de SweetAlert*@
 <script src="~/js/sweetalert2.all.min.js"></script>

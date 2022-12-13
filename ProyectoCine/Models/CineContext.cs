@@ -9,6 +9,7 @@ namespace ProyectoCine.Models
             option.UseSqlServer("Data Source = GUIDO; Initial Catalog=Cine; Integrated Security= true");
         }
 
+
         public DbSet<Pelicula> peliculas { get; set; }
 
         public DbSet<Entrada> entradas { get; set; }

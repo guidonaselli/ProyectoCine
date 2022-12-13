@@ -1,5 +1,6 @@
 ﻿@model IEnumerable<Entrada>
 
+    @*Mostrar todas las entradas*@
 
 <table class="table">
     <thead>
@@ -49,7 +50,7 @@
 
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-exit">Editar Compra</a>
-                <a onclick="AlertDeleteJuego('@item.Id')" class="btn btn-form">Cancelar compra</a>
+                <a onclick="AlertCancelar('@item.Id')" class="btn btn-form">Cancelar compra</a>
             </td>
         </tr>
     }
@@ -58,9 +59,13 @@
 <a asp-action="Index" asp-controller="Home" class="btn btn-exit">VOLVER</a>
 
 
+@*
+        CONFRIMACION PARA BORRAR UNA ENTRADA
+    Usando SweetAlert (Herramienta de JavaScript) lo importamos en el _Layout.cshtml
+*@
 
 <script>
-    function AlertDeleteJuego(identificador) {
+    function AlertCancelar(identificador) {
         Swal.fire({
             title: '¿Seguro que desea cancelar su compra?',
             text: "Recuerde que no será posible revertir esta acción.",

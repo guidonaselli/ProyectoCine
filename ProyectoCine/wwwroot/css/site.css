@@ -170,78 +170,9 @@ a {
     width: 154px;
 }
 
-.img-pelicula-detalle {
-    height: 300px;
-    width: 250px;
-}
-
-.video-yt {
-    width:560px;
-    height:315px;
-}
 
 
-.detalle-container{
-    display:flex;
-    flex-direction: row;
-    justify-content:space-evenly;
-    flex-wrap: wrap;
-    align-items: center;
-}
 
-.tab-section {
-    margin-block: 50px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 65%;
-}
-
-.btn-entradas {
-    background-color: var(--primario);
-    text-align: center;
-    font-weight: 700;
-    border-radius: 6px;
-    width: 20%;
-    height: 40px;
-    margin: 4%;
-}
-
-.btn-entradas:hover {
-    background-color: var(--oscuro);
-    color: white;
-    transition-duration: 0.2s;
-}
-
-.info-pelicula-container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap-reverse;
-    align-items: flex-end;
-}
-
-.detalle-text {
-    width: 60%;
-}
-
-.detalle-entradas{
-    width: 40%;
-}
-
-.detalle-info-title{
-    cursor:default;
-}
-
-.nav-tabs > .active{
-    color: var(--primario) !important;
-    font-weight: 700;
-}
-
-.info-container{
-    display: flex;
-    flex-direction: column;
-    justify-content: left;
-}
 
 .form-btns {
     display: flex;
@@ -283,6 +214,83 @@ a {
     transition-duration: 0.2s;
 }
 
+/* DETALLE PELICULAS */
+
+.img-pelicula-detalle {
+    height: 300px;
+    width: 250px;
+}
+
+.video-yt {
+    width: 560px;
+    height: 315px;
+}
+
+.tab-section {
+    margin-block: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 65%;
+}
+
+.detalle-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.btn-entradas {
+    background-color: var(--primario);
+    text-align: center;
+    font-weight: 700;
+    border-radius: 6px;
+    width: 20%;
+    height: 40px;
+    margin: 4%;
+}
+
+    .btn-entradas:hover {
+        background-color: var(--oscuro);
+        color: white;
+        transition-duration: 0.2s;
+    }
+
+.info-pelicula-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    align-items: flex-end;
+}
+
+.detalle-text {
+    width: 60%;
+}
+
+.detalle-entradas {
+    width: 40%;
+}
+
+.detalle-info-title {
+    cursor: default;
+}
+
+.nav-tabs > .active {
+    color: var(--primario) !important;
+    font-weight: 700;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+
+/* RESPONSIVE */
+
 @media (min-width: 768px) {
     html {
         font-size: 1.1em;
@@ -299,4 +307,5 @@ a {
     .btn-entradas{
         width: 100%;
     }
+
 }

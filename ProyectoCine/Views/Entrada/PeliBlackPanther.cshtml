@@ -14,19 +14,20 @@
 
             <div class="title jumbotron shadow jumbotron-fluid text-white py-0 text-center text-uppercase cp-bg-black">
                 <div class="container d-inline-flex justify-content-center align-items-center py-4">
+                    @*Titulo de la película*@
                     <h2 class="title-text display-5"><span class="text-active">Pantera Negra:</span> Wakanda Por Siempre</h2>
                 </div>
 
             </div>
-            @*Trailer*@
+            
+            @*Información de la película*@
 
             <div class="container">
                 <div class="row detalle-container">
 
+                    @*Poster*@
                     <img src="~/imgs/pantera-negra.png" class="img-pelicula-detalle" />
-
-
-
+                    @*Trailer*@
                     <iframe class="video-yt" src="https://www.youtube.com/embed/uvHiOhjjtLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                 </div>
@@ -44,10 +45,12 @@
                         </nav>
                         <div class="tab-content" id="nav-tabContent">
                             <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                                @*Sinopsis*@
                                 En PANTERA NEGRA: WAKANDA POR SIEMPRE de Marvel Studios, la reina Ramonda (Angela Bassett), Shuri (Letitia Wright), M'Baku (Winston Duke), Okoye (Danai Gurira) y las Dora Milaje (incluida Florence Kasumba) luchan por proteger a su nación de las potencias mundiales que intervienen tras la muerte del Rey T'Challa. Mientras los habitantes de Wakanda se esfuerzan embarcarse en un nuevo capítulo, los héroes deben unirse con la ayuda de War Dog Nakia (Lupita Nyong'o) y Everett Ross (Martin Freeman) y forjar un nuevo camino para el reino de Wakanda. El film que cuenta con Tenoch Huerta como Namor, rey de una nación submarina oculta, también está protagonizada por Dominique Thorne, Michaela Coel, Mabel Cadena y Alex Livanalli. PANTERA NEGRA: WAKANDA POR SIEMPRE, dirigida por Ryan Coogler y con la producida por Kevin Feige y Nate Moore, estrena en cines el 10 de noviembre de 2022.
 
                             </div>
                             <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                                @*Detalles*@
                                 <div class="info-container">
                                     <p class="info-item">Titulo Original: Black Panther: Wakanda Forever</p>
                                     <p class="info-item">Origen: USA</p>
@@ -64,7 +67,7 @@
 
                     </div>
                 </div>
-
+                @*Botón para comprar entrada*@
                 <a class="btn btn-entradas text:align:center" asp-area="" asp-controller="Entrada" asp-action="BuyTickets">Comprar entradas</a>
                 </div>
             </div>
