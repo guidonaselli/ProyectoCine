@@ -12,41 +12,38 @@ namespace ProyectoCine.Controllers
         {
             List<Entrada>? entradas = null;
 
+            
             using (CineContext context = new())
             {
+                // Al usar using, el context sólo vive dentro del scope.
                 entradas = context.entradas.ToList();
             }
-
-            //string titulo = "Entrada creada";
-            //TempData["titulo"] = titulo;
-            //HttpContext.Session.SetString("clave", titulo);
             return View(entradas);
         }
 
         //Vista de Entrada, muestra el formulario.
-        [HttpGet]
+        [HttpGet] //Muestra información
         public IActionResult EntradaSd()
         {
             return View(nameof(Entrada));
         }
 
 
-        //Vista de Create
-        //VER SI HAY QUE HACER ALGO ASÍ PARA COMPRAR LA ENTRADA, esta va a mostrar el formulario?
+              //Vista de Create
+
         //GET muestra los datos, cuando envio datos de la pagina hacia el controlador hacemos un POST
-
-
         //muestra el formulario de comprar la entrada, levanta la vista
         [HttpGet]
         public IActionResult BuyTickets() //ESTA ACCION ES EL QUE MUESTRA LA VISTA DEL FORMULARIO. Lo que abre el boton comprar entrada
         {
-            //string? titulo = TempData["titulo"].ToString();
-            //string? valor = HttpContext.Session.GetString("clave");
-            //ViewBag.valor = valor;
             return View(nameof(BuyTickets));
         }
+
+        // CRUD
+
         //recibe y crea un entrada
-        [HttpPost]
+
+        [HttpPost] //  Recibe/Crea información
         public IActionResult Create(Entrada entrada) //desde la pantalla de BuyTickets, llena los datos de la entrada y lo envía al servidor
         {
             using (CineContext context = new()) //el using arma un ámbito donde el objeto declarado, en este caso context,va a estar vivo. Vive en el scope del using, para liberar memoria  
@@ -70,9 +67,6 @@ namespace ProyectoCine.Controllers
         {
             using (CineContext context = new())
             {
-
-                //var buscamosCliente  = (from c in context.Clientes where c.Id == Id select c);
-                //Cliente? cliente = buscamosCliente.FirstOrDefault();
 
                 Entrada? entrada = context.entradas.Find(Id);
 

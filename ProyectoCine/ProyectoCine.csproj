@@ -14,6 +14,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="Models\Boleteria.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Remove="Views\Home\Index1.cshtml" />
     <Content Remove="Views\Home\Privacy.cshtml" />
     <Content Remove="Views\Home\_ViewImports.cshtml" />

@@ -1,9 +1,6 @@
 ﻿@model IEnumerable<Entrada>
 
-<h1>@TempData["titulo"]</h1>
-
-
-<a asp-action="Create" class="btn btn-outline-dark" style="margin-bottom:10px;"></a>
+    @*Mostrar todas las entradas*@
 
 <table class="table">
     <thead>
@@ -52,21 +49,23 @@
             </td>
 
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-outline-warning">Editar Compra</a>
-                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-warning">Cancelar Compra</a>
-               @* <a onclick="AlertDeleteJuego('@item.Id')" class="btn btn-danger">Cancelar compra</a>
-                <input type="submit" value="Cancelar compra" class="btn btn-outline-dark" />submit hace envios de tipo POST*@
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-exit">Editar Compra</a>
+                <a onclick="AlertCancelar('@item.Id')" class="btn btn-form">Cancelar compra</a>
             </td>
         </tr>
     }
 </table>
 
-<a asp-action="Index" asp-controller="Home" class="btn btn-outline-dark" style="margin-top:10px;">VOLVER</a>
+<a asp-action="Index" asp-controller="Home" class="btn btn-exit">VOLVER</a>
 
 
+@*
+        CONFRIMACION PARA BORRAR UNA ENTRADA
+    Usando SweetAlert (Herramienta de JavaScript) lo importamos en el _Layout.cshtml
+*@
 
 <script>
-    function AlertDeleteJuego(identificador) {
+    function AlertCancelar(identificador) {
         Swal.fire({
             title: '¿Seguro que desea cancelar su compra?',
             text: "Recuerde que no será posible revertir esta acción.",
@@ -82,6 +81,7 @@
                     url: "Entrada/Delete?id=" + identificador,
                     success: function (r) {
                         window.location = "Entrada/Index";
+                        location.reload();
                     }
                 });
             }

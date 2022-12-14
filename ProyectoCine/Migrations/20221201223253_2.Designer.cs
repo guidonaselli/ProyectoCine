@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ProyectoCine.Models;
 
@@ -10,9 +11,10 @@ using ProyectoCine.Models;
 namespace ProyectoCine.Migrations
 {
     [DbContext(typeof(CineContext))]
-    partial class CineContextModelSnapshot : ModelSnapshot
+    [Migration("20221201223253_2")]
+    partial class _2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
